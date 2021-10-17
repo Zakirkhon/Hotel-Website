@@ -1,2 +1,3 @@
 # Hotel-Website
-Hotel Website for advertisement
+HTML & CSS
+
